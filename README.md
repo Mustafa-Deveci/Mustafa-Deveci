@@ -1,4 +1,4 @@
-### Hi there, Mustafa here! 👋
+### Hey there 👋 I'm Mustafa
 
 ![viewCount](https://views.whatilearened.today/views/github/Mustafa-Deveci/Mustafa-Deveci.svg)
 - 🌱 I’m currently learning Java.
