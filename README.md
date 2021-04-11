@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com) [İnstagram](https://www.instagram.com/mstf_dvcii/)
 - ⚡ Fun fact: I am interested in motorcycles and I love to ride.
-- 💯 My life philosophy : "No matter how hard the past is, you can always start over."
+- 💯 My life philosophy : "No mistakes, no coincidences. All are blessings given to us so that we can learn."
 
 
 
