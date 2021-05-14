@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com) [İnstagram](https://www.instagram.com/mstf_dvcii/)
 - ⚡ Fun fact: I am interested in motorcycles and I love to ride.
-- 💯 "No mistakes, no coincidences. All of them are blessings given to us so that we can learn life."
 
 
 
