@@ -1,6 +1,5 @@
 ### Hey there 👋 I'm Mustafa
 
-![viewCount](https://views.whatilearened.today/views/github/Mustafa-Deveci/Mustafa-Deveci.svg)
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
 
