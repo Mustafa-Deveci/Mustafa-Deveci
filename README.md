@@ -2,7 +2,7 @@
 
 ![viewCount](https://views.whatilearened.today/views/github/Mustafa-Deveci/Mustafa-Deveci.svg)
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com) [İnstagram](https://www.instagram.com/mstf_dvcii/)
+- 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
 - ⚡ Fun fact: I am interested in motorcycles and I love to ride.
 
 ### 📊 GitHub Analytics
