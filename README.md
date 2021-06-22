@@ -5,6 +5,14 @@
 - 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com) [İnstagram](https://www.instagram.com/mstf_dvcii/)
 - ⚡ Fun fact: I am interested in motorcycles and I love to ride.
 
+### 📊 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Mustafa-Deveci">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adem68&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Mustafa-Deveci"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Mustafa-Deveci"/>
+</a>
+</p>
 
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250" height="200" />
