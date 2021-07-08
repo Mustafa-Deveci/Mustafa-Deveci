@@ -3,13 +3,15 @@
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
 
+
+### 📊 GitHub Analytics
+
 <p align="center">
-<a href="https://github.com/Mustafa-Deveci">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Deveci&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Mustafa-Deveci"/>
+<a href="https://github.com/Adem68">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adem68&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="adem68"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="adem68"/>
 </a>
 </p>
-
-
 
 
 ### 💻 Workspace Spec
