@@ -3,7 +3,7 @@
 * I’m currently learning Java and Swift(mostly).
 * I'm interested in iOS development. My work is focused on this area.
 * How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
-
+* https://medium.com/@mustafadeveci
 
 ### 📊 GitHub Analytics
 
