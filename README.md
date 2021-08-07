@@ -3,8 +3,8 @@
 * I’m currently learning Java and Swift(mostly).
 * I'm interested in iOS development. My work is focused on this area.
 * How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
-* I will write blogs when I have enough information. Don't forget to follow me. 
-  [Blog](https://medium.com/@mustafadeveci)
+* Here you can find my reading list and the blogs I will write. 
+  [Reading list and Blogs](https://medium.com/@mustafadeveci)
 
 ### 📊 GitHub Analytics
 
