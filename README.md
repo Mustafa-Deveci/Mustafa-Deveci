@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Mustafa
 
 * I’m currently learning Java and Swift(mostly).
-* I am interested in iOS development. My work is focused on this area.
+* I am interested in iOS development. My study is focused on this area.
 * How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
 
 
