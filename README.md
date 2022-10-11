@@ -1,4 +1,4 @@
-### Hey there, I'm Mustafa :man_technologist:
+### Hey there, I'm Mustafa :👋:
 
 * I’m currently learning Swift.
 * Here you can find my reading list and the blogs I will write.[Reading list and Blogs](https://medium.com/@mustafadeveci)
