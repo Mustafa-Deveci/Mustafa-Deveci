@@ -6,6 +6,7 @@
 ---
 ### SNS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-devecii/)
+[![instagram](https://www.instagram.com/mstfdvc_)
 ---
 ### Skills
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge&logo=ios)
