@@ -5,6 +5,7 @@
 * How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
 ---
 ### SNS
+<a href="https://medium.com/@mustafadevecii"><img src="https://img.shields.io/badge/-@eneskayiklik-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@mustafadevecii" alt="Medium"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-devecii/)
 ---
 ### Skills
