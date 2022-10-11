@@ -3,7 +3,6 @@
 * I’m currently learning Swift.
 * Here you can find my reading list and the blogs I will write.[Reading list and Blogs](https://medium.com/@mustafadeveci)
 * How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
-
 ---
 ### SNS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-devecii/)
