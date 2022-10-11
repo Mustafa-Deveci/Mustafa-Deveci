@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-devecii/)
 ---
 ### Skills
-![Swift](https://img.shields.io/badge/Swift/SwiftUI-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black) 
+![Swift](https://img.shields.io/badge/Swift-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black) 
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge&logo=ios)
 
 ### 📊 GitHub Analytics
