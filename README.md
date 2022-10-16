@@ -1,6 +1,6 @@
 
 * A computer engineering student interested in iOS. 
-* I am learning Swift language. I'm trying to solve the algorithm questions I found with the Swift language. you can review.
+* I am learning Swift language. I'm trying to solve the algorithm questions I found with the Swift language. You can review.
 
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
