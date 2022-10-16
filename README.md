@@ -1,7 +1,11 @@
-### Hey there, I'm Mustafa👋
 
-* I’m currently learning Swift.
-* How to reach me: [Gmail](mailto:mstf.dvcii@gmail.com)
+* A computer engineering student interested in iOS. 
+* I am learning Swift language. I'm trying to solve the algorithm questions I found with the Swift language. you can review.
+
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 ---
 ### SNS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-devecii/)
@@ -15,10 +19,6 @@
 ### Skills
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge&logo=ios)
 ![Swift](https://img.shields.io/badge/Swift-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black) 
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
 
 ### 📊 GitHub Analytics
 
@@ -27,7 +27,3 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Deveci&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Mustafa-Deveci"/>
 </a>
 </p>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={Mustafa-Deveci}
-     
- 
