@@ -23,7 +23,7 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mustafa-deveci&show_icons=true&count_private=true&theme=dark"/>
-    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-deveci&show_icons=true&count_private=true&theme=dark"/>
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mustafa-deveci&show_icons=true&count_private=true&theme=light"/>
+    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-deveci&show_icons=true&count_private=true&theme=light"/>
 </p>
 
