@@ -1,5 +1,5 @@
 
-* I'm trying to solve the algorithm questions I found with the Swift language. You can review.
+* A Computer Engineering student interested in iOS 
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
