@@ -1,6 +1,6 @@
 
 * A Computer Engineering student interested in iOS 
----
+
 ### SNS
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafadevecii80@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-devecii/)
@@ -8,7 +8,9 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/m_deveci9?hr_r=1)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20233223/mustafa-deveci)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mustafadeveci)
----
+
+-----
+
 ### Skills
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge&logo=ios)
 ![Swift](https://img.shields.io/badge/Swift-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black) 
