@@ -1,5 +1,8 @@
 
-* A Computer Engineering student interested in iOS 
+* :partying_face: A Computer Engineering student interested in iOS 
+* 🌱 I’m currently learning Swift, UIKit, SwiftUI
+* 💬 Ask me about Swift, iOS Programming
+* 📫 How to reach me mustafadevecii80@gmail.com
 
 ### SNS
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafadevecii80@gmail.com)
