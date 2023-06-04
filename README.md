@@ -1,7 +1,7 @@
 
 * :partying_face: I'm a Computer Engineering student interested in iOS.
-* 🌱 I’m currently learning Swift, UIKit, SwiftUI#
-* 💬 Ask me about Swift, iOS Programming#
+* 🌱 I’m currently learning Swift, UIKit, SwiftUI
+* 💬 Ask me about Swift, iOS Programming
 * 📫 How to reach me mustafadevecii80@gmail.com
 
 ### SNS
