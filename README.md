@@ -1,5 +1,5 @@
 
-* :partying_face: I'm a Computer Engineering student interested in iOS.
+* :partying_face: I'm currently working as an iOS Developer at Mikigi.
 * 🌱 I’m currently learning Swift, UIKit, SwiftUI
 * 📫 How to reach me mustafadevecii80@gmail.com
 
